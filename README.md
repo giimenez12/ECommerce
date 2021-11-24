@@ -1,5 +1,4 @@
 # Eccomerce
-Proyecto java Spring boot con hibernate:
 Enunciado 
 Los servicios a desarrollar estarán basados en 2 grandes puntos del mundo eCommerce, por un lado las
 compras y por el otro el Checkout (gestión del Carrito de compras).
